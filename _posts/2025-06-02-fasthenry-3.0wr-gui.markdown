@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "fasthenry 3.0wr GUI"
+date:   2025-06-02 22:19:00 -0400
+categories: programming fasthenry qt cpp inductance superconductor docker dev-container kinetic-inductance
+---
+The fasthenry 3.0wr GUI software adds more user friendly interface to the famous fasthenry-3.0wr package. It contains a working linux based source code, a docker dev container with Visual Studio Code support to run under windows and Qt based GUI. Details see below link.
+
+[github repository](https://github.com/gyue01/fasthenry-3.0wr-gui)  
+[README](https://github.com/gyue01/fasthenry-3.0wr-gui/blob/main/README.md)
+
+![Fasthenry GUI](https://github.com/user-attachments/assets/cbb520f8-fac6-4e8e-9b54-6dcfe2d2905c)
